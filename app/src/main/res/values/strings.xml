@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">whoru</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="topback">TOPBACK</string>
+    <string name="bea">BEA</string>
+    <string name="beatrice_tuco">Beatrice Tuco</string>
+    <string name="ll">LL</string>
+    <string name="email_beaticetengson_gmail_com">Email: beaticetengson@gmail.com</string>
+    <string name="birthday_may_8_1999">Birthday: May 8, 1999</string>
+    <string name="name_beatrice_anne_tuco">Name: Beatrice Anne Tuco</string>
+    <string name="school_university_of_immaculate_conception">School: University of Immaculate Conception</string>
+    <string name="pi">PI</string>
+    <string name="age_18_years_old">Age: 18 years old</string>
+    <string name="pli">TODO</string>
+    <string name="program_information_technology">Program: Information Technology</string>
+    <string name="year_3rd_year_student">Year: 3rd year student</string>
+    <string name="specialized_multimedia">Specialized: Multimedia</string>
+    <string name="black">Black</string>
+    <string name="gray">GRAY</string>
+    <string name="bl">Bl</string>
+    <string name="title_activity_nav">NavActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="profile">Profile</string>
+    <string name="bacgr">BACKGR</string>
+
+    <string name="button2">START</string>
+    <string name="button1">Profile</string>
+    <string name="name">Name</string>
+    <string name="analysis_here">Analysis here...</string>
+    <string name="test_again">Test Again</string>
+    <string name="backgroundanalysis">BACKGROUNDANALYSIS</string>
+    <string name="e_extrovert_i_introvert_s_sensing_i_intuiting_t_thinking_f_feeling_j_judging_p_perceiving">E:Extrovert | I:Introvert | S:Sensing | I:Intuiting | T:Thinking | F:Feeling | J:Judging | P:Perceiving</string>
+    <string name="test">TestAgain</string>
+    <string name="question">Question here...</string>
+    <string name="stop">stop</string>
+    <string name="button_b">Button B</string>
+    <string name="button_a">Button A</string>
+    <string name="backGG">backGGGG</string>
+    <string name="question_here">Question here...</string>
+    <string name="_1_70">1/70</string>
+    <string name="start">Start</string>
+    <string name="string_start" />
+    <string name="about_me">About Me</string>
+    <string name="gender_female">Gender: Female</string>
+    <string name="citizenship_filipino">Citizenship: Filipino</string>
+    <string name="menu">MENU</string>
+    <string name="whoru">WhoRU</string>
+    <string name="result">Result</string>
+</resources>
